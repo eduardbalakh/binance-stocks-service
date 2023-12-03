@@ -1,0 +1,5 @@
+binance:
+  baseUrl: ${BINANCE_BASEURL:https://api.binance.com}
+  credentials:
+    secretKey: ${BINANCE_SECRETKEY}
+    apiKey: ${BINANCE_APIKEY}
